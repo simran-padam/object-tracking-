@@ -10,4 +10,4 @@ The process of the code is as follows:
 
  #Shortcomings 
  - The current implementation works well with stable camera only.
- - In the highway video, there is error of detection with slight movement of camera.
+ - In the highway video, there is some error of detection with slight movement of camera.
